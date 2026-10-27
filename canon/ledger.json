@@ -1,0 +1,314 @@
+[
+  {
+    "key": "公示剩余天数",
+    "value": "6",
+    "unit": "天",
+    "fromChapter": 1
+  },
+  {
+    "key": "清单物品数",
+    "value": "9",
+    "unit": "件",
+    "fromChapter": 1
+  },
+  {
+    "key": "实到物品数",
+    "value": "8",
+    "unit": "件",
+    "fromChapter": 1
+  },
+  {
+    "key": "地下室铁皮柜数",
+    "value": "9",
+    "unit": "个",
+    "fromChapter": 1
+  },
+  {
+    "key": "公示期剩余天数",
+    "value": "6",
+    "unit": "天",
+    "fromChapter": 2
+  },
+  {
+    "key": "实到物品件数",
+    "value": "8",
+    "unit": "件",
+    "fromChapter": 2
+  },
+  {
+    "key": "清单物品件数",
+    "value": "9",
+    "unit": "件",
+    "fromChapter": 2
+  },
+  {
+    "key": "清单内物品数",
+    "value": "8",
+    "unit": "件",
+    "fromChapter": 3
+  },
+  {
+    "key": "清单外物品数",
+    "value": "1",
+    "unit": "件",
+    "fromChapter": 3
+  },
+  {
+    "key": "已填记忆卡数",
+    "value": "3",
+    "unit": "张",
+    "fromChapter": 3
+  },
+  {
+    "key": "已签字记忆卡数",
+    "value": "0",
+    "unit": "张",
+    "fromChapter": 3
+  },
+  {
+    "key": "撕毁记忆卡数",
+    "value": "1",
+    "unit": "张",
+    "fromChapter": 3
+  },
+  {
+    "key": "清单编号总数",
+    "value": "9",
+    "unit": "件",
+    "fromChapter": 4
+  },
+  {
+    "key": "实到物品数",
+    "value": "8",
+    "unit": "件",
+    "fromChapter": 4
+  },
+  {
+    "key": "缺失物品数",
+    "value": "1",
+    "unit": "件",
+    "fromChapter": 4
+  },
+  {
+    "key": "空置柜数",
+    "value": "1",
+    "unit": "个（01号柜）",
+    "fromChapter": 4
+  },
+  {
+    "key": "地下室温度",
+    "value": "22",
+    "unit": "℃",
+    "fromChapter": 4
+  },
+  {
+    "key": "地下室湿度",
+    "value": "45",
+    "unit": "%",
+    "fromChapter": 4
+  },
+  {
+    "key": "林律师通话时长",
+    "value": "41",
+    "unit": "秒",
+    "fromChapter": 4
+  },
+  {
+    "key": "林律师通话拨出时间",
+    "value": "15:40",
+    "unit": "时",
+    "fromChapter": 4
+  },
+  {
+    "key": "上午未接来电标记亮起时间",
+    "value": "15:27",
+    "unit": "时",
+    "fromChapter": 4
+  },
+  {
+    "key": "陈默拨出未接来电时间",
+    "value": "14:47",
+    "unit": "时",
+    "fromChapter": 4
+  },
+  {
+    "key": "记录本新页所写条目数",
+    "value": "1",
+    "unit": "条（“第四十七单，清单外物品一（原写“两”划掉改“一”）件”）",
+    "fromChapter": 4
+  },
+  {
+    "key": "钥匙串把数",
+    "value": "6",
+    "unit": "把",
+    "fromChapter": 5
+  },
+  {
+    "key": "空号短信条数",
+    "value": "每月一条，最早三年前，最近昨天",
+    "unit": "条",
+    "fromChapter": 5
+  },
+  {
+    "key": "台阶数",
+    "value": "11",
+    "unit": "级/层",
+    "fromChapter": 5
+  },
+  {
+    "key": "邮局监控保存天数",
+    "value": "7",
+    "unit": "天",
+    "fromChapter": 6
+  },
+  {
+    "key": "加急件手记被撕页数",
+    "value": "1",
+    "unit": "页",
+    "fromChapter": 6
+  },
+  {
+    "key": "备用钥匙失踪天数",
+    "value": "3",
+    "unit": "天",
+    "fromChapter": 6
+  },
+  {
+    "key": "协会系统关闭剩余时间",
+    "value": "19",
+    "unit": "分钟",
+    "fromChapter": 7
+  },
+  {
+    "key": "J-11箱内声源数量",
+    "value": "1",
+    "unit": "台",
+    "fromChapter": 7
+  },
+  {
+    "key": "封箱确认件数",
+    "value": "8",
+    "unit": "件",
+    "fromChapter": 8
+  },
+  {
+    "key": "铅封编号",
+    "value": "SN-4712",
+    "unit": "号",
+    "fromChapter": 8
+  },
+  {
+    "key": "J-11封号",
+    "value": "SN-4711",
+    "unit": "号",
+    "fromChapter": 8
+  },
+  {
+    "key": "柜位物品错位数",
+    "value": "2",
+    "unit": "件",
+    "fromChapter": 8
+  },
+  {
+    "key": "旧手机删除记录次数",
+    "value": "2",
+    "unit": "次",
+    "fromChapter": 8
+  },
+  {
+    "key": "公示期剩余天数",
+    "value": "5",
+    "unit": "天",
+    "fromChapter": 9
+  },
+  {
+    "key": "手背数字",
+    "value": "五",
+    "unit": "字",
+    "fromChapter": 9
+  },
+  {
+    "key": "SN-4712状态",
+    "value": "已寄出",
+    "unit": "件",
+    "fromChapter": 9
+  },
+  {
+    "key": "回执签名栏",
+    "value": "空白",
+    "unit": "处",
+    "fromChapter": 9
+  },
+  {
+    "key": "短信未读",
+    "value": "1",
+    "unit": "条",
+    "fromChapter": 9
+  },
+  {
+    "key": "距铁皮箱可开",
+    "value": "4",
+    "unit": "天",
+    "fromChapter": 10
+  },
+  {
+    "key": "距缺件说明交付",
+    "value": "4",
+    "unit": "天",
+    "fromChapter": 10
+  },
+  {
+    "key": "陈默口袋笔数",
+    "value": "3",
+    "unit": "支",
+    "fromChapter": 10
+  },
+  {
+    "key": "包裹内物件数",
+    "value": "2",
+    "unit": "件",
+    "fromChapter": 11
+  },
+  {
+    "key": "铅封编号",
+    "value": "4711",
+    "unit": "号",
+    "fromChapter": 11
+  },
+  {
+    "key": "寄存天数",
+    "value": "3",
+    "unit": "天",
+    "fromChapter": 11
+  },
+  {
+    "key": "距开箱天数",
+    "value": "1",
+    "unit": "天",
+    "fromChapter": 11
+  },
+  {
+    "key": "阳台箱子数",
+    "value": "36",
+    "unit": "件",
+    "fromChapter": 12
+  },
+  {
+    "key": "陈默手上箱子数",
+    "value": "1",
+    "unit": "件",
+    "fromChapter": 12
+  },
+  {
+    "key": "已凑齐名字数",
+    "value": "0",
+    "unit": "个",
+    "fromChapter": 12
+  },
+  {
+    "key": "距定名日",
+    "value": "2",
+    "unit": "天",
+    "fromChapter": 12
+  }
+]

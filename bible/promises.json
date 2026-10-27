@@ -1,0 +1,194 @@
+[
+  {
+    "id": "g1-1",
+    "text": "01号柜为何空置？清单九件实到八件，缺失物品去向不明。",
+    "plantedAt": 1,
+    "dueBy": 10,
+    "paidAt": 8,
+    "importance": 3
+  },
+  {
+    "id": "g1-2",
+    "text": "陈曦的浅蓝废卡上为何有主角笔迹的“电话”二字？主角为何藏匿一叠同样的废卡？",
+    "plantedAt": 1,
+    "dueBy": 8,
+    "paidAt": 8,
+    "importance": 2
+  },
+  {
+    "id": "g2-1",
+    "text": "铁盒内铅封背面出现干泥点，来源不明。",
+    "plantedAt": 2,
+    "dueBy": 8,
+    "paidAt": 8,
+    "importance": 2
+  },
+  {
+    "id": "g2-2",
+    "text": "林律师短信发送时间（两点四十七分）与陈默看到的时间（三点二十七分）不一致，原因不明。",
+    "plantedAt": 2,
+    "dueBy": 6,
+    "paidAt": 7,
+    "importance": 2
+  },
+  {
+    "id": "g3-1",
+    "text": "J-11铁皮箱标签经办人“陈”与陈默同姓，身份未交代。",
+    "plantedAt": 3,
+    "dueBy": 12,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g3-2",
+    "text": "第三张记忆卡签字栏有写歪的半个“默”字，是否算签字、后续如何处理未定。",
+    "plantedAt": 3,
+    "dueBy": 8,
+    "paidAt": 8,
+    "importance": 2
+  },
+  {
+    "id": "g4-1",
+    "text": "4706号柜内衬夹层出现陈默未放过的牛皮纸包（内装周素云证件照），且清单背面多出陈默笔迹但非她所写的“待核”一行，说明有人在她离开后进入地下室，此人不需要钥匙或持有钥匙——身份与进入方式不明。",
+    "plantedAt": 4,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-2",
+    "text": "周素云证件照下巴轮廓与陈默记忆中的陈曦“差了一点点”，照片上的人没有陈曦的浅窝，角度和光线削掉轮廓，说不清差在哪里——照片上的人是否真是周素云、与陈曦有何关系不明。",
+    "plantedAt": 4,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g5-1",
+    "text": "空号每月发短信，最早一条“妈，别告诉姐”——发信人是谁、为何是空号、为何不让告诉陈默。",
+    "plantedAt": 5,
+    "dueBy": 12,
+    "paidAt": 12,
+    "importance": 3
+  },
+  {
+    "id": "g5-2",
+    "text": "母亲如何知道缺件说明不能加东西——她只对林律师说过，林律师是否与母亲通过话。",
+    "plantedAt": 5,
+    "dueBy": 12,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g6-1",
+    "text": "加急件手记被撕掉的那页上原本写的是什么，谁撕的，备用钥匙被谁拿走又还回、为何沾泥。",
+    "plantedAt": 6,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g6-2",
+    "text": "上个月来邮局问监控的人是谁（老周未答，疑似协会或相关方）。",
+    "plantedAt": 6,
+    "dueBy": 9,
+    "paidAt": 9,
+    "importance": 2
+  },
+  {
+    "id": "g7-1",
+    "text": "举报件署名周素云的笔迹与陈默签名一致，周素云已死，笔迹来源不明。",
+    "plantedAt": 7,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g7-2",
+    "text": "J-11铁皮箱内三个音节一组的机械声是什么、为何响，未交代。",
+    "plantedAt": 7,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g8-1",
+    "text": "J-11箱内录音机在铅封扣合时停转，停转原因及录音机内容未交代。",
+    "plantedAt": 8,
+    "dueBy": 12,
+    "paidAt": 11,
+    "importance": 2
+  },
+  {
+    "id": "g8-2",
+    "text": "老周胶带背面“曦”字与陈曦的关系，以及胶带曾贴过什么东西，未交代。",
+    "plantedAt": 8,
+    "dueBy": 12,
+    "paidAt": 11,
+    "importance": 2
+  },
+  {
+    "id": "g9-1",
+    "text": "老周提到上个月有人来问监控，问「不是你吧」，问者身份不明。",
+    "plantedAt": 9,
+    "dueBy": 12,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g9-2",
+    "text": "老周认出陈曦并主动提及，暗示他知道更多关于陈曦的事，未说完被老太太打断。",
+    "plantedAt": 9,
+    "dueBy": 12,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g10-1",
+    "text": "铁皮箱内装的是什么，为何陈曦定在四天后（缺件说明交付同日）才让开。",
+    "plantedAt": 10,
+    "dueBy": 14,
+    "paidAt": 12,
+    "importance": 3
+  },
+  {
+    "id": "g10-2",
+    "text": "无归属地号码发信人是谁，为何提醒“别用剪刀”。",
+    "plantedAt": 10,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g11-1",
+    "text": "陈曦交代“四天以后开箱”，铁皮箱内装何物、为何定在四天后开，未交代。",
+    "plantedAt": 11,
+    "dueBy": 14,
+    "paidAt": 12,
+    "importance": 3
+  },
+  {
+    "id": "g11-2",
+    "text": "录音带中“轮到你了”后半句被剪掉，剪接者与完整内容未交代。",
+    "plantedAt": 11,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g12-1",
+    "text": "第三个名字是什么、如何“在陈默手上”，未交代。",
+    "plantedAt": 12,
+    "dueBy": 18,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g12-2",
+    "text": "母亲阳台上的三十六件箱子内容物及“凑齐三个名字才能拆”的完整条件未交代。",
+    "plantedAt": 12,
+    "dueBy": 18,
+    "paidAt": null,
+    "importance": 2
+  }
+]
